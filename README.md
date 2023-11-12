@@ -1,5 +1,9 @@
 Turizm Acente Sistemi
 
+Video ekran kaydı linki
+https://1drv.ms/v/c/fc3c328df1a11d66/EXJfVZaFmiVJns89Iq3kRe4BE55kXZUBIZ9On1ubOaEuXw?e=wp63pw
+
+
 Otel Yönetimi
 Acente anlaşmalı olduğu otelleri, konum bilgileri ve diğer özellikleri ile birlikte sistemden yönetebiliyor. Otel eklenirken Otel Adı, Adres, E-posta, Telefon, Yıldız, Tesis Özellikleri, Pansiyon tipleri gibi diğer tanımlamalar yapılıyor.
 
